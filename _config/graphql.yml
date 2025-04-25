@@ -8,5 +8,5 @@ SilverStripe\GraphQL\Schema\Schema:
   schemas:
     default:
       src:
-        - 'silverstripe/silverstripe-headless: _graphql'
+        - 'silverstripedev/silverstripe-headless: _graphql'
 
