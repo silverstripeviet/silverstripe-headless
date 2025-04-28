@@ -17,7 +17,7 @@
     "silverstripe/graphql": "^4",
     "silverstripe/cms-events": "*",
     "unclecheese/display-logic": "~2.0",
-    "silverstripeviet/silverstripe-apikey": "dev-master",
+    "silverstripedev/silverstripe-apikey": "dev-master",
     "symbiote/silverstripe-grouped-cms-menu": "^4",
     "firebase/php-jwt": "^5.4",
     "guzzlehttp/guzzle": "^7.0"
